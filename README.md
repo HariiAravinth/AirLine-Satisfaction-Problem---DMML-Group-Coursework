@@ -1,10 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TnJIQ-Y6)
+
 # Data Mining and Machine Learning Group Coursework
 
 ### Group Members
-1. **Sarath Sasikumar** - @SarathZ72 - H00456810  
+1. **Harii Ganesh Aravinth** - @Hariiaravinth - H00477168   
 2. **Sreenithi Saravanaperumal** - @Sreenithi-0103 - H00486223  
-3. **Harii Ganesh Aravinth** - @Hariiaravinth - H00477168  
+3. **Sarath Sasikumar** - @SarathZ72 - H00456810
 4. **Atufigwege Mwakatapanya** - @atu88 - H00476650  
 5. **Kiya Kebaili** - @KiyaKH003 - H00478944
 
